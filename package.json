@@ -1,0 +1,15 @@
+{
+  "name": "commonvoice-mac",
+  "productName": "commonvoice-mac",
+  "version": "0.0.1",
+  "description": "Menubar app for Common Voice",
+  "main": "app.js",
+  "dependencies": {
+    "electron": "^25.3.2",
+    "electron-context-menu": "^3.6.1",
+    "menubar": "^9.3.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
