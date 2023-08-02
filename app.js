@@ -13,6 +13,7 @@ const mb = menubar({
         },
         width: 450,
         height: 550,
+        transparent: true,
       },
       showOnAllWorkspaces: true,
       preloadWindow: true,
